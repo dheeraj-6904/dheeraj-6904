@@ -30,11 +30,9 @@
 
 ---
 
-<h3 align="center">Dheeraj Kumar's GitHub Stats</h3>
 
-<p align="center">⭐ **Total Stars Earned:** 0  </p>
-<p align="center">📌 **Total Commits (2025):** 137  </p>
-<p align="center">🔗 **Total PRs:** 1  </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dheeraj-6904&show_icons=true&locale=en" alt="GitHub Stats" />
@@ -52,20 +50,7 @@
 
 <h3 align="center">Achievements</h3>
 
-<p align="center">🎯 **Total Contributions:** 148 (Jul 16, 2023 - Present)</p>
-<p align="center">🔥 **Current Streak:** 2 (Mar 7 - Mar 8)</p>
-<p align="center">🏆 **Longest Streak:** 5 (Oct 23, 2024 - Oct 27, 2024)</p>
-
-<h4 align="center">Badges:</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-High%20Committer-blue" />
-  <img src="https://img.shields.io/badge/Experience-Junior%20Dev-brightgreen" />
-  <img src="https://img.shields.io/badge/Followers-First%20Friend-yellow" />
-  <img src="https://img.shields.io/badge/PullRequests-First%20Pull-orange" />
-  <img src="https://img.shields.io/badge/Repositories-First%20Repository-red" />
-</p>
-
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj-6904" alt="dheeraj-6904" /></a> </p>
 
 <h3 align="center">Profile Views Counter:</h3>
 <p align="center">
