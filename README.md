@@ -32,14 +32,33 @@
 
 <br>
 
-<h2 align="center"> 🏆 Trophies </h2>
+<h2 align="center"> 🏆 Badges & Milestones </h2>
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dheeraj-6904&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies" />
+  <a href="https://github.com/dheeraj-6904?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Achievements-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Achievements" />
   </a>
+  <img src="https://img.shields.io/github/stars/dheeraj-6904?style=for-the-badge&logo=apachespark&color=f5a623" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/dheeraj-6904?style=for-the-badge&logo=github&color=58a6ff" alt="Followers" />
 </div>
+
 <br>
 
 <h2 align="center"> 📊 GitHub Analytics </h2>
 
-<div align="center
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=dheeraj-6904&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dheeraj-6904&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=dheeraj-6904&show_icons=true&theme=radical&hide_border=true&layout=compact&bg_color=0D1117" alt="Most Used Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dheeraj-6904&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
